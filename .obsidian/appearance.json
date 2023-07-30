@@ -1,9 +1,10 @@
 {
   "accentColor": "#648faa",
-  "theme": "system",
+  "theme": "moonstone",
   "cssTheme": "Minimal",
-  "textFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "HarmonyOS Sans SC",
+  "interfaceFontFamily": "HarmonyOS Sans SC",
   "monospaceFontFamily": "JetBrains Mono",
-  "translucency": false
+  "translucency": false,
+  "nativeMenus": false
 }

@@ -11,8 +11,12 @@
             "id": "e668ea7373295c85",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Golang7期/02-基础数据接口/1.数组.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -112,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Golang7期/02-基础数据接口/1.数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Golang7期/02-基础数据接口/1.数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Golang7期/02-基础数据接口/1.数组.md"
+              }
             }
           }
         ],
@@ -169,8 +177,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "af25b3bae9ad9b7f",
+  "active": "e668ea7373295c85",
   "lastOpenFiles": [
+    "Kubernetes/1.26/05-Kubernetes-安全/ConfigMap和Secret.md",
     "book/README.md",
     "book",
     "未命名.canvas",
@@ -202,7 +211,6 @@
     "Golang7期/01-基础内容/3.基础数据类型.md",
     "Golang7期/01-基础内容/2.基础的一些运算符.md",
     "Golang7期/01-基础内容/1.变量常量.md",
-    "2023-07-24.md",
     "未命名 1.canvas",
     "Golang7期/03-流程控制",
     "Golang7期/Channel",

@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "aa48f2e185f2fcfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e2d51c6310f9938",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e668ea7373295c85",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "4a7bf3661402dbe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d46001698b667dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/数据库相关问题/MySql主从同步介绍-京东物流.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c55290f84d9ec84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang7期/02-基础数据接口/1.数组.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "027b3aa8cc648959",
+    "type": "split",
+    "children": [
+      {
+        "id": "d90905e6546e6db4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af25b3bae9ad9b7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6157d39856c3633",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "994db4a19908b793",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cc988ec800049ac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4a68955f783537a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fddb31fcc9c9fb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d895302c832fd6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b89ca80ea90f7048",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "4922a70485bf2497",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "af25b3bae9ad9b7f",
+  "lastOpenFiles": [
+    "book/README.md",
+    "book",
+    "未命名.canvas",
+    "Golang7期/02-基础数据接口/1.数组.md",
+    "Golang7期/Http协议.md",
+    "Golang7期/02-基础数据接口",
+    "Linux/数据库相关问题/MySql主从同步介绍-京东物流.md",
+    "Linux/数据库相关问题/MySQL主从可能出现的问题.md",
+    "Linux/搭建Flarum论坛.md",
+    "Golang7期/03-流程控制/2.if语句.md",
+    "Linux/NGINX",
+    "Linux/数据库相关问题",
+    "Golang7期/03-流程控制/4-3-结构体指针.md",
+    "日记",
+    "Kubernetes/Dev/kubernetes1.22.10部署.md",
+    "Kubernetes/Dev/使用KubeKey安装Kubernetes问题汇总.md",
+    "Kubernetes/Dev/使用Kubeadm创建一个高可用的Etcd集群.md",
+    "Kubernetes/Dev/生产环境Kubernetes.md",
+    "Kubernetes/Dev/亲和性和污点.md",
+    "Kubernetes/Dev/利用Kubeadm创建高可用集群.md",
+    "Kubernetes/Dev/官方WebUI部署.md",
+    "Kubernetes/Dev/RockyLinux版本订阅地址.md",
+    "Kubernetes/Dev/Kubernetes常用命令.md",
+    "Kubernetes/云原生/Kubernetes架构和对象设计.md",
+    "Kubernetes/云原生/kubectl常用命令.md",
+    "Kubernetes/云原生/API Server.md",
+    "Kubernetes/云原生/控制器.md",
+    "Golang7期/03-流程控制/1.循环.md",
+    "Golang7期/01-基础内容/3.基础数据类型.md",
+    "Golang7期/01-基础内容/2.基础的一些运算符.md",
+    "Golang7期/01-基础内容/1.变量常量.md",
+    "2023-07-24.md",
+    "未命名 1.canvas",
+    "Golang7期/03-流程控制",
+    "Golang7期/Channel",
+    "Golang7期/Socket编程",
+    "Golang7期/01-基础内容/Untitled Folder",
+    "Golang7期/01-基础内容"
+  ]
+}

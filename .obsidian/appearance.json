@@ -1,0 +1,9 @@
+{
+  "accentColor": "#648faa",
+  "theme": "system",
+  "cssTheme": "Minimal",
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "translucency": false
+}

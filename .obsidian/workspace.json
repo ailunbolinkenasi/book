@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "87cc59f82ea8dbfe",
+        "id": "f91047231a11a496",
         "type": "tabs",
         "children": [
           {
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9459c0121cac526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/1.26/10-日志收集/1.基于Kubernetes的日志收集架构解析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4a7bf3661402dbe9",
@@ -38,13 +51,13 @@
             }
           },
           {
-            "id": "b9459c0121cac526",
+            "id": "1b2cd5ee3339811a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/1.26/09-监控部分/1.Prometheus基本内容.md",
-                "mode": "preview",
+                "file": "Kubernetes/1.26/09-监控部分/2.Thanos实现PrometheusHA.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -128,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/1.26/09-监控部分/1.Prometheus基本内容.md",
+                "file": "Kubernetes/1.26/10-日志收集/1.基于Kubernetes的日志收集架构解析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/1.26/09-监控部分/1.Prometheus基本内容.md",
+                "file": "Kubernetes/1.26/10-日志收集/1.基于Kubernetes的日志收集架构解析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/1.26/09-监控部分/1.Prometheus基本内容.md"
+                "file": "Kubernetes/1.26/10-日志收集/1.基于Kubernetes的日志收集架构解析.md"
               }
             }
           }
@@ -191,6 +204,10 @@
   },
   "active": "b9459c0121cac526",
   "lastOpenFiles": [
+    "Kubernetes/1.26/09-监控部分/2.Thanos实现PrometheusHA.md",
+    "Kubernetes/1.26/10-日志收集/1.基于Kubernetes的日志收集架构解析.md",
+    "Kubernetes/1.26/10-日志收集",
+    "Kubernetes/1.26/09-监控部分/1.Prometheus基本内容.md",
     "Golang7期/02-基础数据接口/2.切片.md",
     "Golang7期/02-基础数据接口/1.数组.md",
     "Linux/数据库相关问题/MySql主从同步介绍-京东物流.md",
@@ -220,14 +237,10 @@
     "Kubernetes/云原生/kubectl常用命令.md",
     "Kubernetes/云原生/API Server.md",
     "Kubernetes/云原生/控制器.md",
-    "Golang7期/03-流程控制/1.循环.md",
-    "Golang7期/01-基础内容/3.基础数据类型.md",
-    "Golang7期/01-基础内容/2.基础的一些运算符.md",
     "未命名 1.canvas",
     "Golang7期/03-流程控制",
     "Golang7期/Channel",
     "Golang7期/Socket编程",
-    "Golang7期/01-基础内容/Untitled Folder",
-    "Golang7期/01-基础内容"
+    "Golang7期/01-基础内容/Untitled Folder"
   ]
 }

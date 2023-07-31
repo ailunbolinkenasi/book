@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang7期/02-基础数据接口/2.切片.md",
+                "file": "Kubernetes/1.26/09-监控部分/1.Prometheus基本内容.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,6 +32,18 @@
               "type": "markdown",
               "state": {
                 "file": "Linux/数据库相关问题/MySql主从同步介绍-京东物流.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9459c0121cac526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/1.26/09-监控部分/1.Prometheus基本内容.md",
                 "mode": "preview",
                 "source": false
               }
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang7期/02-基础数据接口/2.切片.md",
+                "file": "Kubernetes/1.26/09-监控部分/1.Prometheus基本内容.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang7期/02-基础数据接口/2.切片.md",
+                "file": "Kubernetes/1.26/09-监控部分/1.Prometheus基本内容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang7期/02-基础数据接口/2.切片.md"
+                "file": "Kubernetes/1.26/09-监控部分/1.Prometheus基本内容.md"
               }
             }
           }
@@ -177,10 +189,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6eed38fc380b5b8f",
+  "active": "b9459c0121cac526",
   "lastOpenFiles": [
-    "Golang7期/02-基础数据接口/1.数组.md",
     "Golang7期/02-基础数据接口/2.切片.md",
+    "Golang7期/02-基础数据接口/1.数组.md",
     "Linux/数据库相关问题/MySql主从同步介绍-京东物流.md",
     "Kubernetes/1.26/05-Kubernetes-安全/ConfigMap和Secret.md",
     "book/README.md",
